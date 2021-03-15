@@ -1,0 +1,3 @@
+﻿  Pay.cpp
+C:\Users\ksush\source\repos\Project_opp_2.1\Project_opp_2.1\Pay.cpp(69,14): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Project_opp_2.1.vcxproj -> C:\Users\ksush\source\repos\Project_opp_2.1\Debug\Project_opp_2.1.exe
